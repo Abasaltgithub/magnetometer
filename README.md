@@ -4,8 +4,6 @@ Creating a README for a magnetic field sensor interfaced with an STM32F405 micro
 
 This repository provides the code and documentation for interfacing a magnetic field sensor with an STM32F405 microcontroller. With this project, you can measure and monitor magnetic field data using the STM32F405 for various applications.
 
-![Magnetic Field Sensor](/S5.png)
-
 ## Table of Contents
 
 - [Introduction](#introduction)

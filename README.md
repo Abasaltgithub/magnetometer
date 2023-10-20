@@ -13,7 +13,7 @@ This repository contains the code and documentation for interfacing the LIS3MDL 
 
 ## Introduction
 
-This is a triple-axis magnetometer (compass) module for sensing magnetic fields, often used for determining magnetic north and measuring magnetic fields. It pairs well with the LSM6DSOX from ST and communicates over I2C. It can detect magnetic fields from ±4 gauss (± 400 uTesla) to ±16 gauss (± 1600 uT or 1.6 mT). It's easy to use, supports both 3.3V and 5V logic levels, and comes with STEMMA QT connectors for hassle-free connections. The module is fully assembled and tested, featuring 0.1" standard headers for easy integration and four mounting holes for attachment.
+This is a triple-axis magnetometer (compass) module for sensing magnetic fields, often used for determining magnetic north and measuring magnetic fields. It pairs well with the LSM6DSOX from ST and communicates over I2C. It can detect magnetic fields from ±4 gauss (± 400 µT) to ±16 gauss (± 1600 µT). It's easy to use, supports both 3.3V and 5V logic levels, and comes with STEMMA QT connectors for hassle-free connections. The module is fully assembled and tested, featuring 0.1" standard headers for easy integration and four mounting holes for attachment.
 
 ## Hardware Requirements
 

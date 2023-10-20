@@ -39,4 +39,7 @@ To get started with this project, you will need the following hardware component
 
 Feel free to explore and adapt this interface to meet your unique project needs. The LIS3MDL magnetic field sensor, in combination with the STM32F405 microcontroller, provides a robust platform for various applications involving magnetic field measurements.
 
+### Active comoensation of magnetic fields
 ![Magnetic Field Compensation](MF_compensation.png)
+
+

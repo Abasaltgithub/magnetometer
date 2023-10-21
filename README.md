@@ -30,7 +30,7 @@ To get started with this project, you will need the following hardware component
 3. **Library and Code**: If specific libraries are required for the LIS3MDL sensor, make sure to install them as needed. Additionally, load the example code provided in this repository onto your STM32F405 microcontroller.
 
 
-## Usage
+<h2 style="color: blue;">Usage</h2>
 
 1. After uploading the code to your STM32F405 microcontroller, power on the system.
 2. The STM32F405 microcontroller will begin reading magnetic field data from the LIS3MDL sensor.
